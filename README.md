@@ -7,5 +7,3 @@ Subject : Project Management with GIT
 Subject Code:BCS358C
 Year of Admission :2025
 Mobile : 987654321
-Email:nabilashaikhgmail.com
-
