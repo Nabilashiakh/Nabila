@@ -1,9 +1,17 @@
 Title:Ms
 Full Name : Nabila Fatima
+<<<<<<< HEAD
+=======
+USN : 1WT25CS401
+>>>>>>> 8e07697 (Added aboutMyself.txt file successfully)
 Semester :Third
 section : A
 Branch : Computer Science & Engineering
 Year of Admission :2025
 College name :GITW
+<<<<<<< HEAD
 School : AL-AMEEN
 Diploma : GWPT
+=======
+
+>>>>>>> 8e07697 (Added aboutMyself.txt file successfully)
