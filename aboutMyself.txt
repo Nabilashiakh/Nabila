@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title : Ms
 Full Name : Nabila
 Semester : Third 
@@ -5,3 +6,15 @@ Section : A
 Branch : Computer Science
 Year of Admission : 2025
 College Name : GITW
+=======
+Title:Ms
+Full Name : Nabila Fatima
+USN : 1WT25CS401
+Semester :Third
+section : A
+Branch : Computer Science & Engineering
+Year of Admission :2025
+College name :GITW
+School : AL-AMEEN
+Diploma : GWPT
+>>>>>>> feature-branch
