@@ -1,5 +1,5 @@
 Title : Ms
-Full Name : Nabila
+Full Name : Nabila Fatima
 Semester : Third
 Section : A
 Subject : Project management with GIT
