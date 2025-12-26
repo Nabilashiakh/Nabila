@@ -1,6 +1,6 @@
 Title : Ms
-Full Name : Nabila
-Semeter : Third 
+Full Name : Nabila Fatima
+Semester : Third
 Section : A
 Subject : Project management with GIT
 Subject Code : BCS385C
