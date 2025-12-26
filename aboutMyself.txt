@@ -10,12 +10,9 @@ College name :GITW
 School : AL-AMEEN
 Diploma : GWPT
 <<<<<<< HEAD
-<<<<<<< HEAD
 8e07697 (Added aboutMyself.txt file successfully)
 School : AL-AMEEN
 Diploma : GWPT
 833bcb8 (Upated the contents of aboutMyself.txt file successfully)
-=======
->>>>>>> 833bcb8 (Upated the contents of aboutMyself.txt file successfully)
 =======
 >>>>>>> 833bcb8 (Upated the contents of aboutMyself.txt file successfully)
